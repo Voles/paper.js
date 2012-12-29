@@ -1,0 +1,8 @@
+{
+  "name": "paper",
+  "version": "0.2.2",
+  "main": ["./node.js/index.js"],
+  "dependencies": {
+    "canvas": ">=  0.7.0"
+  }
+}
